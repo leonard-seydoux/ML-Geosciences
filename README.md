@@ -1,4 +1,4 @@
-# machine_learning_scripts
+# Machine learning scripts
 
 This working groups mainly is inspired from the online book [Deep Learning](http://www.deeplearningbook.org) Ian Goodfellow, Yoshua Bengio and Aaron Courville.
 
